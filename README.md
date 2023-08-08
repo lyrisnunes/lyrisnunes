@@ -2,7 +2,7 @@
 
 
 - 🔭  Atualmente trabalho como Front End e me especializando em Full Stack.
-- 🌱  Estudando React, Node.js,SQLite , MySql.
+- 🌱  Estudando React, Node.js, SQLite , MySql.
 - 👩‍🎓  React, Javascript, HTML, CSS, figma, bootstrap.
 
 
