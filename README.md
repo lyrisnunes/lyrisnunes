@@ -1,9 +1,8 @@
 ### Olá! Meu nome é Lyris, com foco em trazer soluções e transformar ideias em realidade tecnologicas.
 
-Here are some ideas to get you started:
 
-- 🔭  Atualmente trabalho como Front End
-- 🌱  Estudando React e Typescript
+- 🔭  Atualmente trabalho como Front End e me especializando em Full Stack.
+- 🌱  Estudando React, Node.js,SQLite , MySql.
 - 👩‍🎓  React, Javascript, HTML, CSS, figma, bootstrap.
 
 
