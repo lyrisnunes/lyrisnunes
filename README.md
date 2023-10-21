@@ -1,9 +1,10 @@
-### Olá! Meu nome é Lyris, com foco em trazer soluções e transformar ideias em realidade tecnologicas.
+### Olá! Sou a Lyris, uma profissional apaixonada por tecnologia e comprometida em criar soluções que transformam conceitos em realidade.
 
+👩‍💻 Experiência Profissional: Atualmente, estou atuando como Front End e estou empenhada em aprimorar minhas habilidades para me tornar uma desenvolvedora Full Stack. Tenho experiência sólida em  React, Javascript, Node.js, MySql e SQLite. 
 
-- 🔭  Atualmente trabalho como Front End e me especializando em Full Stack.
-- 🌱  Estudando React, Node.js, SQLite , MySql.
-- 👩‍🎓  React, Javascript, HTML, CSS, figma, bootstrap.
+📚 Educação: No momento, estou focada em aprimorar minhas habilidades em React, Node.js e bancos de dados como SQLite e MySQL.
+
+🚀 Objetivo: Meu objetivo é combinar minha paixão por design e desenvolvimento para criar experiências digitais. Estou comprometida em acompanhar as tendências da indústria e usar as melhores práticas para oferecer soluções de alta qualidade aos meus clientes.
 
 
 <div style="display: inline_block"><br>
